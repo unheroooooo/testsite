@@ -1023,8 +1023,7 @@
 }
 
 .desktop .picture {
-  align-self: stretch;
-  background-image: url(../../../static/img/picture-3.png);
+  background-image: url(../../../static/img/picture-1.png);
   background-position: 50% 50%;
   background-size: cover;
   flex: 0 0 auto;
@@ -1122,7 +1121,7 @@
 
 .desktop .picture-3 {
   align-self: stretch;
-  background-image: url(../../../static/img/picture-1.png);
+  background-image: url(../../../static/img/picture-3.png);
   background-position: 50% 50%;
   background-size: cover;
   flex: 0 0 auto;
@@ -1132,7 +1131,7 @@
 
 .desktop .picture-4 {
   align-self: stretch;
-  background-image: url(../../../static/img/picture.png);
+  background-image: url(../../../static/img/picture-4.png);
   background-position: 50% 50%;
   background-size: cover;
   flex: 0 0 auto;

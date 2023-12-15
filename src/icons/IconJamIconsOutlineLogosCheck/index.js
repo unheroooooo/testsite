@@ -1,1 +1,0 @@
-export { IconJamIconsOutlineLogosCheck } from "./IconJamIconsOutlineLogosCheck";
